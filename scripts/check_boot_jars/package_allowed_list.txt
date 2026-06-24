@@ -237,12 +237,15 @@ com\.nothing
 com\.nothing\..*
 
 # OPLUS adds
+com\.color\.inner\..*
+com\.oppo\..*
 com\.oplus\..*
 net\.oneplus\..*
 oplus\..*
 vendor\.oplus\..*
 com\.color\.inner\..*
 com\.oneplus\..*
+com\.oppo\.media
 com\.thundersoft\..*
 vendor\.oneplus\..*
 
